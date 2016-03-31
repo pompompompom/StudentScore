@@ -1,0 +1,65 @@
+Testing Less than 40 Records
+03-31 03:58:17.666 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=34 quiz3=100 quiz1=52 quiz2=7 quiz4=78 id=1234
+03-31 03:58:17.677 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=30 quiz3=90 quiz1=90 quiz2=36 quiz4=77 id=2134
+03-31 03:58:17.688 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=70 quiz3=20 quiz1=100 quiz2=45 quiz4=90 id=3124
+03-31 03:58:17.705 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=77 quiz3=81 quiz1=11 quiz2=17 quiz4=32 id=4532
+03-31 03:58:17.716 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=34 quiz3=45 quiz1=20 quiz2=12 quiz4=78 id=5678
+03-31 03:58:17.727 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=45 quiz3=55 quiz1=34 quiz2=80 quiz4=78 id=6134
+03-31 03:58:17.739 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=78 quiz3=56 quiz1=60 quiz2=100 quiz4=78 id=7874
+03-31 03:58:17.749 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=56 quiz3=66 quiz1=70 quiz2=10 quiz4=78 id=8026
+03-31 03:58:17.760 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=20 quiz3=77 quiz1=34 quiz2=9 quiz4=78 id=9893
+03-31 03:58:17.771 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=55 quiz3=88 quiz1=45 quiz2=40 quiz4=78 id=1947
+03-31 03:58:17.782 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=80 quiz3=99 quiz1=55 quiz2=50 quiz4=78 id=2877
+03-31 03:58:17.801 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=77 quiz3=100 quiz1=22 quiz2=70 quiz4=78 id=3189
+03-31 03:58:17.812 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=60 quiz3=91 quiz1=89 quiz2=50 quiz4=78 id=4602
+03-31 03:58:17.823 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=10 quiz3=0 quiz1=11 quiz2=11 quiz4=78 id=5405
+03-31 03:58:17.836 3496-3496/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=20 quiz3=89 quiz1=0 quiz2=98 quiz4=78 id=6999
+03-31 03:58:17.923 3496-3496/yipengy.com.studentscore D/HomeFragment: highScores: [100, 100, 100, 90, 80]
+03-31 03:58:17.923 3496-3496/yipengy.com.studentscore D/HomeFragment: highScores: [0, 7, 0, 32, 10]
+03-31 03:58:17.923 3496-3496/yipengy.com.studentscore D/HomeFragment: highScores: [46.2, 42.333332, 70.46667, 75.666664, 49.733334]
+
+Testing more than 40 records - Only insert the first 40
+03-31 04:00:07.900 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=34 quiz3=100 quiz1=52 quiz2=7 quiz4=78 id=1234
+03-31 04:00:07.912 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=30 quiz3=90 quiz1=90 quiz2=36 quiz4=77 id=2134
+03-31 04:00:07.925 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=70 quiz3=20 quiz1=100 quiz2=45 quiz4=90 id=3124
+03-31 04:00:07.937 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=77 quiz3=81 quiz1=11 quiz2=17 quiz4=32 id=4532
+03-31 04:00:07.950 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=34 quiz3=45 quiz1=20 quiz2=12 quiz4=78 id=5678
+03-31 04:00:07.962 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=45 quiz3=55 quiz1=34 quiz2=80 quiz4=78 id=6134
+03-31 04:00:07.975 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=78 quiz3=56 quiz1=60 quiz2=100 quiz4=78 id=7874
+03-31 04:00:07.986 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=56 quiz3=66 quiz1=70 quiz2=10 quiz4=78 id=8026
+03-31 04:00:07.997 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=20 quiz3=77 quiz1=34 quiz2=9 quiz4=78 id=9893
+03-31 04:00:08.008 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=55 quiz3=88 quiz1=45 quiz2=40 quiz4=78 id=1947
+03-31 04:00:08.018 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=80 quiz3=99 quiz1=55 quiz2=50 quiz4=78 id=2877
+03-31 04:00:08.029 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=77 quiz3=100 quiz1=22 quiz2=70 quiz4=78 id=3189
+03-31 04:00:08.040 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=60 quiz3=91 quiz1=89 quiz2=50 quiz4=78 id=4602
+03-31 04:00:08.056 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=10 quiz3=0 quiz1=11 quiz2=11 quiz4=78 id=5405
+03-31 04:00:08.069 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=20 quiz3=89 quiz1=0 quiz2=98 quiz4=78 id=6999
+03-31 04:00:08.087 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=34 quiz3=100 quiz1=52 quiz2=7 quiz4=78 id=7000
+03-31 04:00:08.098 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=30 quiz3=90 quiz1=90 quiz2=36 quiz4=77 id=7001
+03-31 04:00:08.112 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=70 quiz3=20 quiz1=100 quiz2=45 quiz4=90 id=7002
+03-31 04:00:08.124 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=77 quiz3=81 quiz1=11 quiz2=17 quiz4=32 id=7003
+03-31 04:00:08.137 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=34 quiz3=45 quiz1=20 quiz2=12 quiz4=78 id=7004
+03-31 04:00:08.148 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=45 quiz3=55 quiz1=34 quiz2=80 quiz4=78 id=7005
+03-31 04:00:08.162 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=78 quiz3=56 quiz1=60 quiz2=100 quiz4=78 id=7006
+03-31 04:00:08.175 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=56 quiz3=66 quiz1=70 quiz2=10 quiz4=78 id=7007
+03-31 04:00:08.190 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=20 quiz3=77 quiz1=34 quiz2=9 quiz4=78 id=7008
+03-31 04:00:08.203 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=55 quiz3=88 quiz1=45 quiz2=40 quiz4=78 id=7009
+03-31 04:00:08.223 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=80 quiz3=99 quiz1=55 quiz2=50 quiz4=78 id=7010
+03-31 04:00:08.236 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=77 quiz3=100 quiz1=22 quiz2=70 quiz4=78 id=7011
+03-31 04:00:08.247 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=60 quiz3=91 quiz1=89 quiz2=50 quiz4=78 id=7012
+03-31 04:00:08.261 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=10 quiz3=0 quiz1=11 quiz2=11 quiz4=78 id=7013
+03-31 04:00:08.272 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=20 quiz3=89 quiz1=0 quiz2=98 quiz4=78 id=7014
+03-31 04:00:08.283 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=34 quiz3=100 quiz1=52 quiz2=7 quiz4=78 id=7015
+03-31 04:00:08.294 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=30 quiz3=90 quiz1=90 quiz2=36 quiz4=77 id=7016
+03-31 04:00:08.306 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=70 quiz3=20 quiz1=100 quiz2=45 quiz4=90 id=7017
+03-31 04:00:08.324 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=77 quiz3=81 quiz1=11 quiz2=17 quiz4=32 id=7018
+03-31 04:00:08.336 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=34 quiz3=45 quiz1=20 quiz2=12 quiz4=78 id=7019
+03-31 04:00:08.349 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=45 quiz3=55 quiz1=34 quiz2=80 quiz4=78 id=7020
+03-31 04:00:08.366 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=78 quiz3=56 quiz1=60 quiz2=100 quiz4=78 id=7021
+03-31 04:00:08.379 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=56 quiz3=66 quiz1=70 quiz2=10 quiz4=78 id=7022
+03-31 04:00:08.392 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=20 quiz3=77 quiz1=34 quiz2=9 quiz4=78 id=7023
+03-31 04:00:08.405 7004-7004/yipengy.com.studentscore D/DatabaseConnector: Inserting quiz5=55 quiz3=88 quiz1=45 quiz2=40 quiz4=78 id=7024
+03-31 04:00:08.414 7004-7004/yipengy.com.studentscore D/DatabaseConnector: RecordOutOfBound: Only 40records are accepted. Ignoring the rest.
+03-31 04:00:08.570 7004-7004/yipengy.com.studentscore D/HomeFragment: highScores: [100, 100, 100, 90, 80]
+03-31 04:00:08.570 7004-7004/yipengy.com.studentscore D/HomeFragment: highScores: [0, 7, 0, 32, 10]
+03-31 04:00:08.570 7004-7004/yipengy.com.studentscore D/HomeFragment: highScores: [47.55, 40.65, 69.8, 75.375, 49.775]
